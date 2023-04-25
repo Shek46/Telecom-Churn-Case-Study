@@ -1,1 +1,8 @@
 # Telecom-Churn-Case-Study
+The telecommunications industry experiences a high rate of customer turnover, also known as churn, due to the competitive market where customers can easily switch between service providers. Retaining existing customers has become a crucial factor for telecom companies, as acquiring new customers is much more costly. To achieve this, companies need to identify customers who are at a high risk of churn.
+
+This analysis focuses on predicting customer churn for a telecom firm using customer-level data. The dataset includes information for four consecutive months, and the objective is to predict churn in the last month using data from the first three months. The analysis assumes that customers go through three phases of the churn process: the ‘good’ phase, the ‘action’ phase, and the ‘churn’ phase. The first two months are considered the ‘good’ phase, the third month is the ‘action’ phase, and the fourth month is the ‘churn’ phase.
+
+There are two types of churn: revenue-based churn and usage-based churn. Revenue-based churn includes customers who have not utilized revenue-generating facilities over a given period, while usage-based churn includes customers who have not used any services over a given period. Both definitions have their shortcomings, but they serve as indicators to help predict customer churn.
+
+The analysis will build multiple predictive models to identify customers at high risk of churn and the main indicators of churn. By understanding customer behavior during the different phases of the churn process, corrective actions can be taken to retain high-value customers. The best predictive model will be recommended to identify customers at risk of churn and reduce customer turnover.
